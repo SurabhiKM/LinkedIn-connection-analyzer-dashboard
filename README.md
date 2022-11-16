@@ -7,9 +7,9 @@
 ![Screenshot 07](https://user-images.githubusercontent.com/114112815/202301183-d0d008e1-19b6-4f06-a28e-5f21d117d3df.png)
 
 # Technology Stack
-#Framework - Streamlit
-#UI Components - Ploty
-#Animations - Lottie
+!Framework - Streamlit
+!UI Components - Ploty
+!Animations - Lottie
 
 
 
