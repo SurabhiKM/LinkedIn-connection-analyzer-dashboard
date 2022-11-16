@@ -6,10 +6,10 @@
 ![Screenshot 05](https://user-images.githubusercontent.com/114112815/202300497-6fd415c1-f90c-43a6-8c92-83570e6925d5.png)
 ![Screenshot 07](https://user-images.githubusercontent.com/114112815/202301183-d0d008e1-19b6-4f06-a28e-5f21d117d3df.png)
 
-# Technology Stack\
+# Technology Stack
 Framework - Streamlit\
 UI Components - Ploty\
-Animations - Lottie\
+Animations - Lottie
 
 
 
